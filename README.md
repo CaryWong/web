@@ -1,37 +1,27 @@
-Welcome to Glitch
-=================
+Welcome to the Gomix BETA (Flask / Python Edition™)
+===================================================
 
-Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
+Click `"Show"` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
-**Glitch** is the friendly community where you'll build the app of your dreams. Glitch lets you instantly create, remix, edit, and host an app, bot or site, and you can invite collaborators or helpers to simultaneously edit code with you.
+Gomix is a developer playground that lets you code a real web-app without the slow setup and deployment steps.
 
-Find out more [about Glitch](https://glitch.com/about).
+[About Gomix](https://gomix.com/about)
 
 
 Your Project
 ------------
 
-### ← README.md
+On the back-end,
+- your app starts at `server.py`
+- add frameworks and packages in `requirements.txt`
+- safely store app secrets in `.env`
 
-That's this file, where you can tell people what your cool website does and how you built it.
+On the front-end,
+- edit `client.js`, `style.css` and `index.html`
+- drag in `assets`, like images or music, to add them to your project
 
-### ← index.html
 
-Where you'll write the content of your website. 
+A Kenneth Reitz Project™ (inspired by Fog Creek)
+----------------------------------------------
 
-### ← style.css
-
-CSS files add styling rules to your content.
-
-### ← script.js
-
-If you're feeling fancy you can add interactivity to your site with JavaScript.
-
-### ← assets
-
-Drag in `assets`, like images or music, to add them to your project
-
-Made by [Glitch](https://glitch.com/)
--------------------
-
-\ ゜o゜)ノ
+ ۜ\(סּںסּَ` )/ۜ
